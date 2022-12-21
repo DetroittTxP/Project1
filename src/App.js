@@ -1,9 +1,9 @@
-import Rec from './component/record'
+import Record from './component/record'
 import './App.css';
 
 function App() {
   return (
-    <Rec/>
+    <Record/>
   );
 }
 

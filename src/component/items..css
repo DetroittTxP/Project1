@@ -1,0 +1,21 @@
+.item-list{
+    list-style-type: none;
+    padding: 0px;
+    margin-bottom: 40px;
+    
+}
+
+.item-list li{
+    background-color: white;
+    color: violet;
+    box-shadow: 0 1px 3px black;
+    padding: 30px;
+    
+    
+}
+
+.item-list span{
+    color: blue;
+    position: relative;
+    left: 160px;
+}
