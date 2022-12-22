@@ -1,0 +1,28 @@
+label,input,button{
+    position: relative;
+    left:37px;
+    font-size: 16px;
+}
+
+
+label{
+    display:inline-block;
+    margin: 10px 0;
+    
+}
+
+input{
+    border: 2px solid black;
+    display: block;
+}
+
+.btn{
+    background-color: purple;
+    color:white;
+    display:block;
+    margin-top: 10px;
+    box-shadow: 3px 3px 3px 3px black;
+    width: 200px;
+    cursor: pointer;
+    
+}
